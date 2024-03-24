@@ -1,0 +1,6 @@
+pandas
+streamlit
+matplotlib
+fsspec
+s3fs
+boto3
